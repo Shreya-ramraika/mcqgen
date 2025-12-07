@@ -3,3 +3,6 @@ langchain
 streamlit
 python-dotenv
 pypdf2
+langchain-openai
+langchain-community
+
